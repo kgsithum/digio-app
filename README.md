@@ -52,7 +52,7 @@ npm test
 168.41.191.40 - - [09/Jul/2018:10:10:38 +0200] "GET http://example.net/blog/category/meta/ HTTP/1.1" 200 3574 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_6_7) AppleWebKit/534.24 (KHTML, like Gecko) RockMelt/0.9.58.494 Chrome/11.0.696.71 Safari/534.24"
 ```
 - The analytic results will be displayed in the `Results` section below.
-- There are two demo files (`run-app.gif`, `run-test.gif`) available in the `/demo` directory.
+- There are two demo files (`run-app.gif`, `run-app-test.gif`) available in the `/demo` directory.
 
 ## Assumptions
 
